@@ -1,0 +1,15 @@
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\bin\Debug\net6.0\Examples12.exe
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\bin\Debug\net6.0\Examples12.deps.json
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\bin\Debug\net6.0\Examples12.runtimeconfig.json
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\bin\Debug\net6.0\Examples12.dll
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\bin\Debug\net6.0\Examples12.pdb
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.csproj.AssemblyReference.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.AssemblyInfoInputs.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.AssemblyInfo.cs
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.csproj.CoreCompileInputs.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.dll
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\refint\Examples12.dll
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.pdb
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\Examples12.genruntimeconfig.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples12\obj\Debug\net6.0\ref\Examples12.dll
