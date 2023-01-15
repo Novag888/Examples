@@ -1,0 +1,15 @@
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.csproj.AssemblyReference.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.AssemblyInfoInputs.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.AssemblyInfo.cs
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\bin\Debug\net6.0\Examples14_Factorial.exe
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\bin\Debug\net6.0\Examples14_Factorial.deps.json
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\bin\Debug\net6.0\Examples14_Factorial.runtimeconfig.json
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\bin\Debug\net6.0\Examples14_Factorial.dll
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\bin\Debug\net6.0\Examples14_Factorial.pdb
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.dll
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\refint\Examples14_Factorial.dll
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.pdb
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\Examples14_Factorial.genruntimeconfig.cache
+C:\Users\novag\OneDrive\Рабочий стол\New map\Examples\Examples14_Factorial\obj\Debug\net6.0\ref\Examples14_Factorial.dll
